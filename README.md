@@ -26,7 +26,9 @@ Goals-2 is a simple React Native application that allows users to add and manage
 - Smooth transitions using modal animations.
 - Responsive UI that works on both Android and iOS.
 
-## Installation
+## Installation (for Development)
+
+> **Note:** This section is intended for developers who want to run the app locally on their development environment (e.g., Visual Studio Code).
 
 ### Prerequisites
 - **Node.js**: v18.x or higher
@@ -55,8 +57,7 @@ Goals-2 is a simple React Native application that allows users to add and manage
     npm start
     ```
 
-## Usage
-1. Run the app in a simulator or on a physical device using:
+5. Run the app in a simulator or on a physical device using:
     ```bash
     npm run android
     ```
@@ -64,8 +65,6 @@ Goals-2 is a simple React Native application that allows users to add and manage
     ```bash
     npm run ios
     ```
-
-2. Use the app to add and manage your goals. Tap "Add new goal" to open the modal, enter your goal, and submit it.
 
 ## Screenshots
 
@@ -94,9 +93,21 @@ Goals-2 is a simple React Native application that allows users to add and manage
   </tr>
 </table>
 
-## Demo Link
+## Demo (for End Users)
 
-Check out the live demo of the application [here](https://web-final-v1.netlify.app/).
+### 1. Try the App with Expo Go
+The easiest way to try the app is by using **Expo Go**. Simply download the [Expo Go](https://expo.dev/client) app on your mobile device and scan the QR code below to launch the app:
+
+<img src="path-to-qr-code" alt="QR Code for Expo" width="200">
+
+### 2. Download the App Directly
+You can also download the app's installation file directly to your device:
+
+- [Download APK for Android](link-to-apk)
+- [Download iOS file (via TestFlight)](link-to-ios)
+
+### 3. Running the App Locally
+If you prefer to run the app on your own device using the development environment, follow the steps in the [Installation](#installation) section above to set up the project and run it with Expo CLI.
 
 ## Project Structure
 
