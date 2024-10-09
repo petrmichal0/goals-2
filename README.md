@@ -1,13 +1,13 @@
-# Mobile Goals App
+# Goals-2
 
 ## Project Title and Description
-Mobile Goals App is a simple React Native application that allows users to add and manage goals using a clean and intuitive user interface.
+Goals-2 is a simple React Native application that allows users to add and manage goals using a clean and intuitive user interface.
 
 ## Badges
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
 ## Quick Look
-<img src="path-to-screenshot" width="300" alt="Mobile Goals App Demo">
+<img src="https://github.com/user-attachments/assets/590b7692-f9f0-4392-be4b-18aa8eefd2f6" width="250" alt="Mobile Goals App Demo">
 
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
@@ -37,12 +37,12 @@ Mobile Goals App is a simple React Native application that allows users to add a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mobile-goals-app.git
+    git clone https://github.com/petrmichal0/Goals-2.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd mobile-goals-app
+    cd Goals-2
     ```
 
 3. Install dependencies:
@@ -133,7 +133,7 @@ Check out the live demo of the application [here](https://web-final-v1.netlify.a
 ## Project Structure
 
 ```css
-mobile-goals-app/
+Goals-2/
 ├── assets/
 │   ├── images/
 │   │   ├── goal.png
