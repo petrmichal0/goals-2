@@ -15,7 +15,7 @@ Goals-2 is a simple React Native application that allows users to add and manage
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
+- [Demo (for End Users)](#demo-for-end-users)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Third-Party Libraries](#third-party-libraries)
