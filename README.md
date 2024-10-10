@@ -108,7 +108,7 @@ The easiest way to try the app is by using **Expo Go**. Simply download the [Exp
 
 <img src="https://github.com/user-attachments/assets/8236b2c1-abfa-4462-a00c-c1f4adb40948" alt="QR Code for Expo" width="200">
 
-Alternatively, you can open the app directly in Snack using this link: [Open in Snack](https://u.expo.dev/933fd9c0-1666-11e7-afca-d980795c5824?runtime-version=exposdk%3A51.0.0&channel-name=production&snack=%40petrmichal0%2Fgoals-2&snack-channel=5yfQgKE70f).
+Alternatively, you can open the app directly in Snack using this link: [Open in Snack](https://snack.expo.dev/@petrmichal0/goals-2).
 
 ### 2. Download the App Directly
 You can also download the app's installation file directly to your device:
