@@ -52,20 +52,28 @@ Goals-2 is a simple React Native application that allows users to add and manage
     npm install
     ```
 
-4. Start the development server:
-    ```bash
-    npm start
-    ```
+## Usage
 
-5. Run the app in a simulator or on a physical device using:
+### 1. Starting the Development Server
+To start the development server, run:
+```bash
+npm start
+```
+
+### 2. Running the App on a Device
+
+To run the app on a simulator or physical device:
+
+- For Android:
     ```bash
     npm run android
     ```
-    or
+
+- For iOS:
     ```bash
     npm run ios
     ```
-
+    
 ## Screenshots
 
 <table>
