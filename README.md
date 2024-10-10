@@ -24,7 +24,7 @@ Goals-2 is a simple React Native application that allows users to add and manage
 ## Features
 - Add, view, and delete goals.
 - Smooth transitions using modal animations.
-- Responsive UI that works on both Android and iOS.
+- Responsive UI that works on Android.
 
 ## Installation (for Development)
 
@@ -68,12 +68,7 @@ To run the app on a simulator or physical device:
     ```bash
     npm run android
     ```
-
-- For iOS:
-    ```bash
-    npm run ios
-    ```
-    
+   
 ## Screenshots
 
 <table>
