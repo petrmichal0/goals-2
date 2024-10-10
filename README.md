@@ -100,14 +100,12 @@ The easiest way to try the app is by using **Expo Go**. Simply download the [Exp
 
 <img src="https://github.com/user-attachments/assets/8236b2c1-abfa-4462-a00c-c1f4adb40948" alt="QR Code for Expo" width="200">
 
+Alternatively, you can open the app directly in Snack using this link: [Open in Snack](exp://u.expo.dev/933fd9c0-1666-11e7-afca-d980795c5824?runtime-version=exposdk%3A51.0.0&channel-name=production&snack=%40petrmichal0%2Fgoals-2&snack-channel=5yfQgKE70f).
+
 ### 2. Download the App Directly
 You can also download the app's installation file directly to your device:
 
 - [Download APK for Android](link-to-apk)
-- [Download iOS file (via TestFlight)](link-to-ios)
-
-### 3. Running the App Locally
-If you prefer to run the app on your own device using the development environment, follow the steps in the [Installation](#installation) section above to set up the project and run it with Expo CLI.
 
 ## Project Structure
 
