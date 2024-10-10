@@ -98,7 +98,7 @@ Goals-2 is a simple React Native application that allows users to add and manage
 ### 1. Try the App with Expo Go
 The easiest way to try the app is by using **Expo Go**. Simply download the [Expo Go](https://expo.dev/client) app on your mobile device and scan the QR code below to launch the app:
 
-<img src="path-to-qr-code" alt="QR Code for Expo" width="200">
+<img src="https://github.com/user-attachments/assets/8236b2c1-abfa-4462-a00c-c1f4adb40948" alt="QR Code for Expo" width="200">
 
 ### 2. Download the App Directly
 You can also download the app's installation file directly to your device:
