@@ -108,7 +108,7 @@ Alternatively, you can open the app directly in Snack using this link: [Open in 
 ### 2. Download the App Directly
 You can also download the app's installation file directly to your device:
 
-- [Download APK for Android](link-to-apk)
+- [Download APK for Android](https://1drv.ms/u/s!Atg7bg8FYV5vpMkzQHq26ZRmAqkyIw?e=KRuZm2)
 
 ## Project Structure
 
