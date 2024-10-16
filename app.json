@@ -14,22 +14,23 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.petrmichal0.RNCourse"
+      "bundleIdentifier": "com.petrmichal0.goals-2"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.petrmichal0.RNCourse"
+      "package": "com.petrmichal0.Goals2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "1d924790-103b-43f8-83b9-19423b91464b"
+        "projectId": "e5ea06ad-12c4-46c0-9983-4b4f73b75042"
       }
-    }
+    },
+    "owner": "petrmichal0"
   }
 }
