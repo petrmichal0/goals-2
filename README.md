@@ -139,8 +139,7 @@ Goals-2/
 
 ## Third-Party Libraries
 
-- **Expo**: Used for rapid development and easy deployment.
-- **React Native**: Provides the core framework for building the mobile app.
+- **Expo Status Bar**: A component that provides status bar configuration and control in Expo projects.
 
 ## License
 
