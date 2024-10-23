@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { StyleSheet, View, FlatList, Button } from "react-native";
+import { StatusBar } from "expo-status-bar";
+
 import GoalItem from "./components/GoalItem";
 import GoalInput from "./components/GoalInput";
-import { StatusBar } from "expo-status-bar";
 
 export default function App() {
   const [modelIsVisible, setModelIsVisible] = useState(false);
